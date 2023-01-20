@@ -8,12 +8,19 @@ Sample Weather Forecast application using React, Typescript, Styled Components, 
     Geolocation data from the US Census Geocoding API service
     Weather data from US National Weather Service API
 ```
+
 ### Geolocation Data
+
 ```
-text
+    text
 ```
 
 ### Weather Service Data
+
 ```
     text
+    - item 1
+    - item 2
+    - item 3
+
 ```
